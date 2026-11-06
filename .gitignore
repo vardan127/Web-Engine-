@@ -1,0 +1,17 @@
+# Binaries & Executables
+bin/
+*.exe
+*.o
+*.obj
+*.dll
+*.pak
+*.bin
+*.dat
+
+# CEF Heavy Binaries (Download separately via build script)
+cef/
+profile/
+
+# Logs & Temp files
+*.log
+*.tmp
